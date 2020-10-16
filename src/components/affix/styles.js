@@ -2,7 +2,7 @@ import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
   container: {
-    top: 2,
+    top: 0,
     justifyContent: 'center',
   },
 });
